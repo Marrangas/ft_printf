@@ -31,9 +31,10 @@ va_copy realiza una copia de una lista de argumentos en su estado actual. El par
  <br/>
 Una vez recuperados todos los argumentos, va_end restablece el puntero a NULL. Es necesario llamar a va_end en cada lista de argumentos que se inicialice con va_start o va_copy antes de que la función devuelva su resultado.
  <br/>
+ 
 ## Tester
-[Paulo Santana - Tester](https://github.com/paulo-santana/ft_printf_tester)            <br/>
-[Tripouille - Tester](https://github.com/Tripouille/printfTester)                   <br/>
+[Paulo Santana - Tester](https://github.com/paulo-santana/ft_printf_tester)      <br/>
+[Tripouille - Tester](https://github.com/Tripouille/printfTester)                <br/>
 [Mazoise - Tester](https://github.com/Mazoise/42TESTERS-PRINTF/tree/master/srcs) <br/>
 
 ## Referencias
