@@ -33,8 +33,8 @@ Una vez recuperados todos los argumentos, va_end restablece el puntero a NULL. E
  <br/>
 ## Tester
 [Paulo Santana - Tester](https://github.com/paulo-santana/ft_printf_tester)            <br/>
-[Tripouille    - Tester](https://github.com/Tripouille/printfTester)                   <br/>
-[Mazoise       - Tester](https://github.com/Mazoise/42TESTERS-PRINTF/tree/master/srcs) <br/>
+[Tripouille - Tester](https://github.com/Tripouille/printfTester)                   <br/>
+[Mazoise - Tester](https://github.com/Mazoise/42TESTERS-PRINTF/tree/master/srcs) <br/>
 
 ## Referencias
 [Formatos va_list](https://stackoverflow.com/questions/4958384/what-is-the-format-of-the-x86-64-va-list-structure#:~:text=The%20va_list%20type%20is%20an,is%20given%20in%20%EF%AC%81gure%203.34)        <br/>
