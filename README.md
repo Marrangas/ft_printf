@@ -12,7 +12,8 @@ X hexadecimal en uppercase <br/>
 %% printea un signo de porcentaje <br/>
 
 ## Librería funciones variáticas
-```# include <stdarg.h>
+```
+# include <stdarg.h>
 
 typedef struct {
    unsigned int gp_offset;
